@@ -1,0 +1,5 @@
+Cython==0.24
+mecab-python3==0.7
+numpy==1.11.0
+six==1.10.0
+word2vec==v0.9.1
